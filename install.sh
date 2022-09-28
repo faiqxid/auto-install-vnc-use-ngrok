@@ -8,7 +8,7 @@ echo -e "\e[1m\e[32m \____/  \_/   \_|  \_| |_/\___/ \_/\_\  \___/|___/  \e[0m"
 echo -e "\e[1m\e[32m                                                     \e[0m"
 echo -e "\e[1m\e[32m                                                     \e[0m"
 echo -e "\e[1m\e[32m 													\e[0m\n"
-echo "\e[1m\e[32m AUTO KILL CHROME BY ASUY ID\e[0m\n\n"
+echo -e "\e[1m\e[32m AUTO KILL CHROME BY ASUY ID\e[0m\n\n"
 sleep 3
 echo -e "\e[1m\e[32m1. Updating packages... \e[0m" && sleep 1
 apt update && apt upgrade -y

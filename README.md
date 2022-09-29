@@ -3,16 +3,21 @@ for install vnc
 
 
 INATALLL
-
->sudo su
-
->cd
-
->wget https://raw.githubusercontent.com/faiqxid/auto-install-vnc-use-ngrok/main/install.sh
-
->chmod +x inatall.sh
-
->./install.sh
+```shell
+sudo su
+```
+```shell
+cd
+```
+```shell
+wget https://raw.githubusercontent.com/faiqxid/auto-install-vnc-use-ngrok/main/install.sh
+```
+```shell
+chmod +x inatall.sh
+```
+```shell
+./install.sh
+```
 
 
 

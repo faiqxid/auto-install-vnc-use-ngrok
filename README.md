@@ -13,7 +13,7 @@ cd
 wget https://raw.githubusercontent.com/faiqxid/auto-install-vnc-use-ngrok/main/install.sh
 ```
 ```shell
-chmod +x inatall.sh
+chmod +x install.sh
 ```
 ```shell
 ./install.sh

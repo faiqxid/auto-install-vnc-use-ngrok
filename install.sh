@@ -76,13 +76,13 @@ systemctl start vncserver@1
 
 
 
-echo -e "\e[1m\e[32m9. get host vnc  .... \e[0m" && sleep 1
+echo -e "\e[1m\e[32m11. get host vnc  .... \e[0m" && sleep 1
 
 
 screen -dmS nvnn
 screen -S nvnn -X stuff "ngrok tcp 5901
 "
 
-echo -e "\e[1m\e[32m2. get host vnc  .... \e[0m" && sleep 1
+echo -e "\e[1m\e[32m12. get host vnc  .... \e[0m" && sleep 1
 
 screen -r nvnn

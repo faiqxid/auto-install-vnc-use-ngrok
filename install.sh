@@ -80,6 +80,7 @@ echo -e "\e[1m\e[32m11. get host vnc  .... \e[0m" && sleep 1
 
 
 screen -dmS nvnn
+sleep 1
 screen -S nvnn -X stuff "ngrok tcp 5901
 "
 
